@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/tej/Documents/Maryland/Semester4/808x/HW/Oct11/valgrind_exercise_808x/build/app",
+  "command": "/usr/bin/c++  -I/home/tej/Documents/Maryland/Semester4/808x/HW/Oct11/valgrind_exercise_808x/include -std=gnu++14 -o CMakeFiles/shell-app.dir/AnalogSensor.cpp.o -c /home/tej/Documents/Maryland/Semester4/808x/HW/Oct11/valgrind_exercise_808x/app/AnalogSensor.cpp",
+  "file": "/home/tej/Documents/Maryland/Semester4/808x/HW/Oct11/valgrind_exercise_808x/app/AnalogSensor.cpp"
+},
+{
+  "directory": "/home/tej/Documents/Maryland/Semester4/808x/HW/Oct11/valgrind_exercise_808x/build/app",
+  "command": "/usr/bin/c++  -I/home/tej/Documents/Maryland/Semester4/808x/HW/Oct11/valgrind_exercise_808x/include -std=gnu++14 -o CMakeFiles/shell-app.dir/main.cpp.o -c /home/tej/Documents/Maryland/Semester4/808x/HW/Oct11/valgrind_exercise_808x/app/main.cpp",
+  "file": "/home/tej/Documents/Maryland/Semester4/808x/HW/Oct11/valgrind_exercise_808x/app/main.cpp"
+}
+]
